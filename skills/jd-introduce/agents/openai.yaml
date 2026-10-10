@@ -1,0 +1,4 @@
+interface:
+  display_name: "JD 맞춤 Introduce 작성"
+  short_description: "실제 경험과 채용 과제를 연결해 기여가 드러나는 소개 작성"
+  default_prompt: "$jd-introduce로 이 채용 공고와 내 이력서를 연결해 경험으로 어떤 기여를 할 수 있는지 드러나는 Introduce 여러 안을 작성해줘."

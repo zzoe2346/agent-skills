@@ -1,0 +1,4 @@
+interface:
+  display_name: "이력서와 포트폴리오 검토"
+  short_description: "역할 과장과 모호한 표현, 성과 근거와 링크를 함께 점검"
+  default_prompt: "$resume-portfolio-review로 최신 이력서와 연결 문서를 검토하고 필요한 불릿 수정안을 AS IS와 TO BE로 제안해줘."

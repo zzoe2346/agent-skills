@@ -1,0 +1,4 @@
+interface:
+  display_name: "프로젝트 포트폴리오 작성"
+  short_description: "프로젝트 자료로 판단 근거와 본인 기여가 드러나는 포트폴리오 작성"
+  default_prompt: "$project-portfolio로 이 프로젝트 자료를 읽고 판단 근거와 본인 기여가 드러나는 포트폴리오를 작성해줘."

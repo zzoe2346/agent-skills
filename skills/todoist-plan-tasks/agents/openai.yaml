@@ -1,0 +1,7 @@
+interface:
+  display_name: "원칙에 맞춘 Todoist 할 일"
+  short_description: "운영 원칙을 읽어 실행 가능한 할 일로 정리하고 Todoist에 추가"
+  default_prompt: "$todoist-plan-tasks를 사용해 운영 원칙에 맞춰 이 할 일을 Todoist에 추가해줘."
+
+policy:
+  allow_implicit_invocation: true
